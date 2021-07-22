@@ -20,4 +20,11 @@ CheckPoints:
 2.For getting into object detection, I tried to learn Yolov3, Because it is widely used now a days, and also it is very fast(30 frames/sec). Learnt the basic difference b/w R-CNN and Yolo and tried to apply it on different images.
 
 3.Making a Web application for detecting objects on live cam using Flask. Used Yolov5 which is even fatser than Yolov3.  When webcam runs,it send images to the Yolov5 algorithm and it detects a bounding box around the objects. 
+
+
 ![Sample Image showing how does Web App work](https://github.com/sravanv-git/Computer_Vision_Based_Web_App/blob/main/images/img1.png)
+
+Improvements:
+1.Using a good HTML page 
+
+2.Showing Text beside the webcam detection.
