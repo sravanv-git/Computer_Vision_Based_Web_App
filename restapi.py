@@ -16,7 +16,7 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     # rendering webpage
-    return render_template('jimmy.html')
+    return render_template('index.html')
 
 @app.route('/video_feed')
 def video_feed():
