@@ -25,6 +25,7 @@ CheckPoints:
 ![Sample Image showing how does Web App work](https://github.com/sravanv-git/Computer_Vision_Based_Web_App/blob/main/images/img1.png)
 
 Improvements:
+
 1.Using a good HTML page 
 
 2.Showing Text beside the webcam detection.
